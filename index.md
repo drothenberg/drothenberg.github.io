@@ -1,5 +1,7 @@
-# drothenberg.github.io
-Markdown test page
+---
+title: Markdown test page
+layout: flat
+---
 
 The following table goes through the schema line-by-line and details the modifications required to create a new OVAL Test.  For simplicity, the OVAL Test’s name “file” is replaced with “[\*]”.
 <table>
